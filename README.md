@@ -17,8 +17,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ahmdanial.online"><img src="https://img.shields.io/badge/~%2F-ahmdanial.online-0f9d9a?style=flat-square&labelColor=0d1117" /></a>
-  <a href="https://www.linkedin.com/in/ahmdanial/"><img src="https://img.shields.io/badge/LinkedIn-ahmdanial-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://www.ahmdanial.online" title="Website"><img src="assets/icons/website.svg" width="44" alt="Website" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ahmdanial/" title="LinkedIn"><img src="assets/icons/linkedin.svg" width="44" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/d4nnyX" title="TryHackMe"><img src="assets/icons/tryhackme.svg" width="44" alt="TryHackMe" /></a>
+  &nbsp;
+  <a href="https://app.hackthebox.com/users/3268087" title="Hack The Box"><img src="assets/icons/hackthebox.svg" width="44" alt="Hack The Box" /></a>
 </p>
 
 ---
