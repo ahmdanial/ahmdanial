@@ -120,15 +120,6 @@ Service detection performed. 1 operator up, 0 vulnerabilities disclosed ;)
 
 ---
 
-### `root@d4nnyX:~# ./stats --verbose`
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmdanial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9fef00&icon_color=9fef00&text_color=c9d1d9&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdanial&layout=compact&hide_border=true&bg_color=0d1117&title_color=9fef00&text_color=c9d1d9" />
-</p>
-
----
-
 ```diff
 - [!] Connection closed by d4nnyX. Stay curious. Stay authorized.
 ```
