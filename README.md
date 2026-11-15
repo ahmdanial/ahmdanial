@@ -35,7 +35,6 @@ name:      Ahmad Danial (d4nnyX)
 location:  Bangi, Selangor, Malaysia
 role:      Security Engineer // Cloud Security // Pentester
 education: BSc Computer Science (Cybersecurity) @ UNITEN
-mindset:   "Find what's misconfigured. Map it to the control that should have caught it. Report it so it gets fixed."
 currently:
   - Pentesting web apps, networks & Active Directory (authorized targets only)
   - Hunting AWS misconfigurations and IAM attack paths
