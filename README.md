@@ -1,29 +1,29 @@
 <!-- ========================= [ d4nnyX :: profile ] ========================= -->
 
 ```diff
-+ ██████╗ ██╗  ██╗███╗   ██╗███╗   ██╗██╗   ██╗██╗  ██╗
-+ ██╔══██╗██║  ██║████╗  ██║████╗  ██║╚██╗ ██╔╝╚██╗██╔╝
-+ ██║  ██║███████║██╔██╗ ██║██╔██╗ ██║ ╚████╔╝  ╚███╔╝ 
-+ ██║  ██║╚════██║██║╚██╗██║██║╚██╗██║  ╚██╔╝   ██╔██╗ 
-+ ██████╔╝     ██║██║ ╚████║██║ ╚████║   ██║   ██╔╝ ██╗
-+ ╚═════╝      ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+- ██████╗ ██╗  ██╗███╗   ██╗███╗   ██╗██╗   ██╗██╗  ██╗
+- ██╔══██╗██║  ██║████╗  ██║████╗  ██║╚██╗ ██╔╝╚██╗██╔╝
+- ██║  ██║███████║██╔██╗ ██║██╔██╗ ██║ ╚████╔╝  ╚███╔╝ 
+- ██║  ██║╚════██║██║╚██╗██║██║╚██╗██║  ╚██╔╝   ██╔██╗ 
+- ██████╔╝     ██║██║ ╚████║██║ ╚████║   ██║   ██╔╝ ██╗
+- ╚═════╝      ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=760&lines=%5B*%5D+Initializing+payload...;%5B%2B%5D+Access+granted.+Welcome%2C+operator.;Security+Engineer+%2F%2F+Cloud+Security+%2F%2F+Pentester;CEH+%2B+CPTS+%7C+Breaking+clouds%2C+mapping+controls." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=FF2E2E&center=true&vCenter=true&width=760&lines=%5B*%5D+Initializing+payload...;%5B%2B%5D+Access+granted.+Welcome%2C+operator.;Security+Engineer+%2F%2F+Cloud+Security+%2F%2F+Pentester;CEH+%2B+CPTS+%7C+Breaking+clouds%2C+mapping+controls." alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CEH-CERTIFIED-39ff14?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/HTB-CPTS-39ff14?style=for-the-badge&logo=hackthebox&logoColor=39ff14&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CTF-3RD%20%2F%20118-39ff14?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://komarev.com/ghpvc/?username=ahmdanial&label=HITS&color=39ff14&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-ff2e2e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CEH-CERTIFIED-ff2e2e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HTB-CPTS-ff2e2e?style=for-the-badge&logo=hackthebox&logoColor=ff2e2e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CTF-3RD%20%2F%20118-ff2e2e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=ahmdanial&label=HITS&color=ff2e2e&style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <p align="center">
-  <a href="https://www.ahmdanial.online"><img src="https://img.shields.io/badge/~%2F-ahmdanial.online-39ff14?style=flat-square&labelColor=0d1117" /></a>
-  <a href="https://www.linkedin.com/in/ahmdanial/"><img src="https://img.shields.io/badge/LinkedIn-ahmdanial-39ff14?style=flat-square&logo=linkedin&logoColor=39ff14&labelColor=0d1117" /></a>
+  <a href="https://www.ahmdanial.online"><img src="https://img.shields.io/badge/~%2F-ahmdanial.online-ff2e2e?style=flat-square&labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/ahmdanial/"><img src="https://img.shields.io/badge/LinkedIn-ahmdanial-ff2e2e?style=flat-square&logo=linkedin&logoColor=ff2e2e&labelColor=0d1117" /></a>
 </p>
 
 ---
@@ -67,8 +67,8 @@ Service detection performed. 1 operator up, 0 vulnerabilities disclosed ;)
 
 | `drwx` | Loadout |
 |---|---|
-| **Offensive tools** | ![](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=39ff14) ![](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logoColor=39ff14) ![](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=39ff14) ![](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=39ff14) ![](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=39ff14) |
-| **Forensics & IR** | ![](https://img.shields.io/badge/Autopsy-0d1117?style=flat-square&logoColor=39ff14) ![](https://img.shields.io/badge/FTK_Imager-0d1117?style=flat-square&logoColor=39ff14) ![](https://img.shields.io/badge/Incident_Detection_%26_Response-0d1117?style=flat-square) |
+| **Offensive tools** | ![](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=ff2e2e) ![](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logoColor=ff2e2e) ![](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=ff2e2e) ![](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=ff2e2e) ![](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=ff2e2e) |
+| **Forensics & IR** | ![](https://img.shields.io/badge/Autopsy-0d1117?style=flat-square&logoColor=ff2e2e) ![](https://img.shields.io/badge/FTK_Imager-0d1117?style=flat-square&logoColor=ff2e2e) ![](https://img.shields.io/badge/Incident_Detection_%26_Response-0d1117?style=flat-square) |
 | **Disciplines** | ![](https://img.shields.io/badge/Penetration_Testing-0d1117?style=flat-square) ![](https://img.shields.io/badge/Web_App_Security-0d1117?style=flat-square) ![](https://img.shields.io/badge/Vulnerability_Assessment-0d1117?style=flat-square) ![](https://img.shields.io/badge/Network_Security-0d1117?style=flat-square) ![](https://img.shields.io/badge/Cloud_Security-0d1117?style=flat-square) ![](https://img.shields.io/badge/Security_Compliance-0d1117?style=flat-square) |
 | **Frameworks** | ![](https://img.shields.io/badge/ISO%2FIEC_27001-0d1117?style=flat-square) ![](https://img.shields.io/badge/NIST_CSF_2.0-0d1117?style=flat-square) ![](https://img.shields.io/badge/CIS_Benchmarks-0d1117?style=flat-square) ![](https://img.shields.io/badge/Security_Controls-0d1117?style=flat-square) |
 | **Cloud & infra** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,kali&theme=dark" height="34" /> |
@@ -92,13 +92,13 @@ Service detection performed. 1 operator up, 0 vulnerabilities disclosed ;)
 
 ### `root@d4nnyX:~# cat scoreboard.txt`
 
-```diff
-+ [ 3rd / 118 ]   BingoCTF                               @ APU
-+ [ Top 28 ]      International Game of Hackers (IGOH)   @ UNIKL   (120 teams)
-+ [ Top 30 ]      International Battle of Hackers (IBOH) @ APU     (145 teams)
-+ [ PLAYED ]      UM Cybersecurity Summit CTF 2025
-! [ ORGANIZER ]   Program Director, CLICQ DIV:IDE CTF 2026
-! [ AUTHOR ]      Web exploitation challenges, CLICQ DIV:IDE & PitchCraft CTF
+```text
+  [ 3rd / 118 ]   BingoCTF                               @ APU
+  [ Top 28 ]      International Game of Hackers (IGOH)   @ UNIKL   (120 teams)
+  [ Top 30 ]      International Battle of Hackers (IBOH) @ APU     (145 teams)
+  [ PLAYED ]      UM Cybersecurity Summit CTF 2025
+  [ ORGANIZER ]   Program Director, CLICQ DIV:IDE CTF 2026
+  [ AUTHOR ]      Web exploitation challenges, CLICQ DIV:IDE & PitchCraft CTF
 ```
 
 ---
@@ -124,8 +124,8 @@ Service detection performed. 1 operator up, 0 vulnerabilities disclosed ;)
 ### `root@d4nnyX:~# ./stats --verbose`
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmdanial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdanial&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmdanial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2e2e&icon_color=ff2e2e&text_color=c9d1d9&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdanial&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2e2e&text_color=c9d1d9" />
 </p>
 
 ---
