@@ -1,13 +1,8 @@
 <!-- ========================= [ d4nnyX :: profile ] ========================= -->
 
-```text
-██████╗ ██╗  ██╗███╗   ██╗███╗   ██╗██╗   ██╗██╗  ██╗
-██╔══██╗██║  ██║████╗  ██║████╗  ██║╚██╗ ██╔╝╚██╗██╔╝
-██║  ██║███████║██╔██╗ ██║██╔██╗ ██║ ╚████╔╝  ╚███╔╝ 
-██║  ██║╚════██║██║╚██╗██║██║╚██╗██║  ╚██╔╝   ██╔██╗ 
-██████╔╝     ██║██║ ╚████║██║ ╚████║   ██║   ██╔╝ ██╗
-╚═════╝      ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
-```
+<p align="center">
+  <img src="assets/banner.png" width="560" alt="d4nnyX" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=9FEF00&center=true&vCenter=true&width=760&lines=%5B*%5D+Initializing+payload...;%5B%2B%5D+Access+granted.+Welcome%2C+operator.;Security+Engineer+%2F%2F+Cloud+Security+%2F%2F+Pentester;CEH+%2B+CPTS+%7C+Breaking+clouds%2C+mapping+controls." alt="Typing intro" />
