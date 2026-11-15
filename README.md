@@ -1,67 +1,135 @@
-<!-- Header: animated terminal-style typing line -->
+<!-- ========================= [ d4nnyX :: profile ] ========================= -->
+
+```diff
++ ██████╗ ██╗  ██╗███╗   ██╗███╗   ██╗██╗   ██╗██╗  ██╗
++ ██╔══██╗██║  ██║████╗  ██║████╗  ██║╚██╗ ██╔╝╚██╗██╔╝
++ ██║  ██║███████║██╔██╗ ██║██╔██╗ ██║ ╚████╔╝  ╚███╔╝ 
++ ██║  ██║╚════██║██║╚██╗██║██║╚██╗██║  ╚██╔╝   ██╔██╗ 
++ ██████╔╝     ██║██║ ╚████║██║ ╚████║   ██║   ██╔╝ ██╗
++ ╚═════╝      ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+```
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D7FF&center=true&vCenter=true&width=700&lines=root%40ahmdanial%3A~%23+whoami;Security+Engineer+%7C+Cloud+Security;Pentester+%E2%80%94+authorized+targets+only" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=760&lines=%5B*%5D+Initializing+payload...;%5B%2B%5D+Access+granted.+Welcome%2C+operator.;Security+Engineer+%2F%2F+Cloud+Security+%2F%2F+Pentester;CEH+%2B+CPTS+%7C+Breaking+clouds%2C+mapping+controls." alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/role-Security%20Engineer-00d7ff?style=flat-square&labelColor=0b1220" />
-  <img src="https://img.shields.io/badge/domain-Cloud%20Security-7c3aed?style=flat-square&labelColor=0b1220" />
-  <img src="https://img.shields.io/badge/focus-Pentesting-ef4444?style=flat-square&labelColor=0b1220" />
-  <img src="https://komarev.com/ghpvc/?username=ahmdanial&label=visitors&color=00d7ff&style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CEH-CERTIFIED-39ff14?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HTB-CPTS-39ff14?style=for-the-badge&logo=hackthebox&logoColor=39ff14&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CTF-3RD%20%2F%20118-39ff14?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=ahmdanial&label=HITS&color=39ff14&style=for-the-badge&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <a href="https://www.ahmdanial.online"><img src="https://img.shields.io/badge/~%2F-ahmdanial.online-39ff14?style=flat-square&labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/ahmdanial/"><img src="https://img.shields.io/badge/LinkedIn-ahmdanial-39ff14?style=flat-square&logo=linkedin&logoColor=39ff14&labelColor=0d1117" /></a>
 </p>
 
 ---
 
-### `$ cat about.yaml`
+### `root@d4nnyX:~# whoami`
 
 ```yaml
-name:      d4nnyX
-role:      Security Engineer
-domain:    Cloud Security
-focus:     Penetration Testing
-mindset:   "Assume breach. Verify everything."
-certs:     [HTB CPTS, CEH, ISC2 Candidate, CCNA ITN, CCNA SRWE]
+name:      Ahmad Danial (d4nnyX)
+location:  Bangi, Selangor, Malaysia
+role:      Security Engineer // Cloud Security // Pentester
+education: BSc Computer Science (Cybersecurity) @ UNITEN
+mindset:   "Find what's misconfigured. Map it to the control that should have caught it. Report it so it gets fixed."
 currently:
-  - Testing web apps, networks & Active Directory
-  - Hunting misconfigs and IAM attack paths in the cloud
-  - Automating recon and assessment workflows
+  - Pentesting web apps, networks & Active Directory (authorized targets only)
+  - Hunting AWS misconfigurations and IAM attack paths
+  - Implementing ISO/IEC 27001 controls (ISMS)
+  - Building & breaking CTF challenges with CLICQ DIV:IDE
+```
+
+### `root@d4nnyX:~# nmap -sV d4nnyX`
+
+```text
+Starting Nmap ( https://nmap.org )
+Nmap scan report for d4nnyX
+Host is up (0.0013s latency).
+
+PORT       STATE  SERVICE                 VERSION
+22/tcp     open   linux-networking        TCP/IP, routing & switching, firewalls
+443/tcp    open   web-app-security        Burp Suite, OWASP Top 10
+445/tcp    open   active-directory        CPTS-grade enumeration & attacks
+8080/tcp   open   vuln-assessment         Nmap, Metasploit, Wireshark
+9000/tcp   open   aws-cloud-security      Boto3, IAM, S3, CloudTrail
+27001/tcp  open   iso-27001-compliance    ISMS, NIST CSF 2.0, CIS Benchmarks
+
+Service detection performed. 1 operator up, 0 vulnerabilities disclosed ;)
 ```
 
 ---
 
-### `$ ls ~/certs`
+### `root@d4nnyX:~# ls -la ~/arsenal`
 
-<p align="center">
-  <img src="assets/certs/htb-cpts.png" height="110" alt="HTB Certified Penetration Testing Specialist (CPTS)" title="HTB CPTS" />
-  &nbsp;
-  <img src="assets/certs/ceh.jpg" height="110" alt="EC-Council Certified Ethical Hacker (CEH)" title="CEH" />
-  &nbsp;
-  <img src="assets/certs/isc2-candidate.png" height="110" alt="ISC2 Candidate" title="ISC2 Candidate" />
-  &nbsp;
-  <img src="assets/certs/ccna-itn.png" height="110" alt="Cisco CCNA: Introduction to Networks" title="CCNA: Introduction to Networks" />
-  &nbsp;
-  <img src="assets/certs/ccna-srwe.png" height="110" alt="Cisco CCNA: Switching, Routing & Wireless Essentials" title="CCNA: Switching, Routing & Wireless Essentials" />
-</p>
-
----
-
-### `$ ls ~/arsenal`
-
-| Category | Tools |
+| `drwx` | Loadout |
 |---|---|
-| **Offensive** | <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,powershell" height="32" /> |
-| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform" height="32" /> |
-| **Containers & DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions" height="32" /> |
+| **Offensive tools** | ![](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=39ff14) ![](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logoColor=39ff14) ![](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=39ff14) ![](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=39ff14) ![](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=39ff14) |
+| **Forensics & IR** | ![](https://img.shields.io/badge/Autopsy-0d1117?style=flat-square&logoColor=39ff14) ![](https://img.shields.io/badge/FTK_Imager-0d1117?style=flat-square&logoColor=39ff14) ![](https://img.shields.io/badge/Incident_Detection_%26_Response-0d1117?style=flat-square) |
+| **Disciplines** | ![](https://img.shields.io/badge/Penetration_Testing-0d1117?style=flat-square) ![](https://img.shields.io/badge/Web_App_Security-0d1117?style=flat-square) ![](https://img.shields.io/badge/Vulnerability_Assessment-0d1117?style=flat-square) ![](https://img.shields.io/badge/Network_Security-0d1117?style=flat-square) ![](https://img.shields.io/badge/Cloud_Security-0d1117?style=flat-square) ![](https://img.shields.io/badge/Security_Compliance-0d1117?style=flat-square) |
+| **Frameworks** | ![](https://img.shields.io/badge/ISO%2FIEC_27001-0d1117?style=flat-square) ![](https://img.shields.io/badge/NIST_CSF_2.0-0d1117?style=flat-square) ![](https://img.shields.io/badge/CIS_Benchmarks-0d1117?style=flat-square) ![](https://img.shields.io/badge/Security_Controls-0d1117?style=flat-square) |
+| **Cloud & infra** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,kali&theme=dark" height="34" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,bash,java,php,js,mysql,postgres&theme=dark" height="34" /> |
+| **Frameworks (dev)** | <img src="https://skillicons.dev/icons?i=flask,react,laravel,django&theme=dark" height="34" /> |
 
 ---
 
-### `$ ./stats.sh`
+### `root@d4nnyX:~# cat ./exploits/cloudsentry.md`
+
+> **CloudSentry** — automated AWS misconfiguration & compliance assessment tool *(Final Year Project)*
+>
+> ```text
+> [+] public S3 buckets           [+] over-permissive IAM roles
+> [+] open inbound ports          [+] disabled CloudTrail logging
+> [+] missing MFA                 [>] mapped to CIS / NIST CSF 2.0 / ISO 27001:2022
+> ```
+> `Python` `Boto3` `Flask` `React.js` `PostgreSQL` `Docker` `ReportLab`
+
+---
+
+### `root@d4nnyX:~# cat scoreboard.txt`
+
+```diff
++ [ 3rd / 118 ]   BingoCTF                               @ APU
++ [ Top 28 ]      International Game of Hackers (IGOH)   @ UNIKL   (120 teams)
++ [ Top 30 ]      International Battle of Hackers (IBOH) @ APU     (145 teams)
++ [ PLAYED ]      UM Cybersecurity Summit CTF 2025
+! [ ORGANIZER ]   Program Director, CLICQ DIV:IDE CTF 2026
+! [ AUTHOR ]      Web exploitation challenges, CLICQ DIV:IDE & PitchCraft CTF
+```
+
+---
+
+### `root@d4nnyX:~# ls ~/certs`
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmdanial&show_icons=true&hide_border=true&bg_color=0b1220&title_color=00d7ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdanial&layout=compact&hide_border=true&bg_color=0b1220&title_color=00d7ff&text_color=c9d1d9" />
+  <img src="assets/certs/htb-cpts.png" height="105" alt="HTB CPTS" title="HTB Certified Penetration Testing Specialist" />
+  &nbsp;
+  <img src="assets/certs/ceh.jpg" height="105" alt="CEH" title="EC-Council Certified Ethical Hacker" />
+  &nbsp;
+  <a href="https://www.credly.com/badges/55934546-5336-45b5-93b5-d667765a1281/public_url"><img src="assets/certs/isc2-candidate.png" height="105" alt="ISC2 Candidate" title="ISC2 Candidate (verify on Credly)" /></a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/d40d4020-ee3f-4151-9b01-170a3416211b/public_url"><img src="assets/certs/ccna-itn.png" height="105" alt="CCNA ITN" title="CCNA: Introduction to Networks (verify on Credly)" /></a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/3a8a74b0-f501-4cc1-ac69-85dccf415358/public_url"><img src="assets/certs/ccna-srwe.png" height="105" alt="CCNA SRWE" title="CCNA: Switching, Routing & Wireless Essentials (verify on Credly)" /></a>
+</p>
+
+<p align="center"><sub>+ zSecurity: Learn Ethical Hacking From Scratch 2024 · Website Hacking / Penetration Testing</sub></p>
+
+---
+
+### `root@d4nnyX:~# ./stats --verbose`
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmdanial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdanial&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" />
 </p>
 
 ---
 
-<p align="center"><code>exit 0</code> — thanks for stopping by.</p>
+```diff
+- [!] Connection closed by d4nnyX. Stay curious. Stay authorized.
+```
