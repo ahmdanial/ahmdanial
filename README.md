@@ -52,7 +52,7 @@ Host is up (0.0013s latency).
 
 PORT       STATE  SERVICE                 VERSION
 22/tcp     open   linux-networking        TCP/IP, routing & switching, firewalls
-443/tcp    open   web-app-security        Burp Suite, OWASP Top 10
+443/tcp    open   web-app-security        Burp Suite, web exploitation
 445/tcp    open   active-directory        CPTS-grade enumeration & attacks
 8080/tcp   open   vuln-assessment         Nmap, Metasploit, Wireshark
 9000/tcp   open   aws-cloud-security      Boto3, IAM, S3, CloudTrail
