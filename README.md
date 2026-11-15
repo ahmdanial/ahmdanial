@@ -20,11 +20,28 @@ role:      Security Engineer
 domain:    Cloud Security
 focus:     Penetration Testing
 mindset:   "Assume breach. Verify everything."
+certs:     [HTB CPTS, CEH, ISC2 Candidate, CCNA ITN, CCNA SRWE]
 currently:
   - Testing web apps, networks & Active Directory
   - Hunting misconfigs and IAM attack paths in the cloud
   - Automating recon and assessment workflows
 ```
+
+---
+
+### `$ ls ~/certs`
+
+<p align="center">
+  <img src="assets/certs/htb-cpts.png" height="110" alt="HTB Certified Penetration Testing Specialist (CPTS)" title="HTB CPTS" />
+  &nbsp;
+  <img src="assets/certs/ceh.jpg" height="110" alt="EC-Council Certified Ethical Hacker (CEH)" title="CEH" />
+  &nbsp;
+  <img src="assets/certs/isc2-candidate.png" height="110" alt="ISC2 Candidate" title="ISC2 Candidate" />
+  &nbsp;
+  <img src="assets/certs/ccna-itn.png" height="110" alt="Cisco CCNA: Introduction to Networks" title="CCNA: Introduction to Networks" />
+  &nbsp;
+  <img src="assets/certs/ccna-srwe.png" height="110" alt="Cisco CCNA: Switching, Routing & Wireless Essentials" title="CCNA: Switching, Routing & Wireless Essentials" />
+</p>
 
 ---
 
